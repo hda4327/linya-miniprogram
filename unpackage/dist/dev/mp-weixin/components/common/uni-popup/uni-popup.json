@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-transition": "/components/common/uni-transition/uni-transition"
+  }
+}

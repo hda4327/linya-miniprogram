@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "jyf-parser": "/components/jyf-parser/jyf-parser",
+    "top-bg": "/components/content/topBg/TopBg",
+    "top-log": "/components/content/topBg/TopLog",
+    "company-bottom": "/components/content/companyInfo/CompanyBottom"
+  }
+}

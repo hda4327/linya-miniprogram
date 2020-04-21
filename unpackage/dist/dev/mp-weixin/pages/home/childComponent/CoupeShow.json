@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "index-item": "/components/content/IndexItem/IndexItem"
+  }
+}

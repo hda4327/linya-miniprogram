@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "nav": "/pages/projectDetail/ChildCom/Nav",
+    "picture": "/pages/projectDetail/ChildCom/Picture",
+    "product": "/pages/projectDetail/ChildCom/Product",
+    "video-part": "/pages/projectDetail/ChildCom/VideoPart"
+  }
+}

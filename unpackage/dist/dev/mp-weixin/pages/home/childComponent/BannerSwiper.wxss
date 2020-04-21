@@ -1,0 +1,23 @@
+
+.wrapper.data-v-3871ecff{
+		height: 200px;
+}
+.banner image.data-v-3871ecff{
+        height: 200px;
+		width: 100%;
+}
+.indicator.data-v-3871ecff{
+        position: absolute;
+        right: 10px;
+        bottom: 30px;
+        background: rgba(1,1,1,0.4);
+        color: white;
+        width: 40px;
+        /*height: 20px;*/
+        padding: 2px 5px;
+        font-size: 12px;
+        text-align: center;
+        line-height: 20px;
+        border-radius: 20px;
+}
+

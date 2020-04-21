@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "jyf-parser": "/components/jyf-parser/jyf-parser",
+    "company-info": "/components/content/companyInfo/companyInfo"
+  }
+}

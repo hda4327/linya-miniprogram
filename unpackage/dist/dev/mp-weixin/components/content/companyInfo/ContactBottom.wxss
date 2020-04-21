@@ -1,0 +1,128 @@
+
+.company-bottom-contract.data-v-b797eeec{
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background:rgba(255,255,255,1);
+        box-shadow:0px 0px 10px 0px rgba(0, 0, 0, 0.06);
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+                align-items: center;
+        height: 50px;
+        padding-left: 25px;
+        /*padding-left: 0.35rem;*/
+        padding-right: 13.5px;
+        z-index: 99;
+		-webkit-justify-content: space-around;
+		        justify-content: space-around;
+}
+.company-bottom-contract .company-to-tel.data-v-b797eeec{
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: flex;
+        width: 25px;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: column;
+                flex-direction: column;
+        -webkit-justify-content: space-around;
+                justify-content: space-around;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+                align-items: center;
+}
+.company-bottom-contract .company-to-tel ._span.data-v-b797eeec{
+        font-size:11px;
+        font-weight:400;
+        color:rgba(26,26,26,1);
+}
+.company-bottom-contract .company-to-tel .to-tel-ico.data-v-b797eeec{
+        width: 15px;
+        height: 18px;
+        background-size: cover;
+        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAkCAMAAACpD3pbAAAAQlBMVEVHcEwYGBgZGRkZGRkXFxcZGRkZGRkNDQ0UFBQZGRkZGRkZGRkZGRkXFxcZGRkZGRkZGRkZGRkYGBgZGRkYGBgaGhp1+012AAAAFXRSTlMAQeD2HL6ZBxF+7KdSJtjObo01X0mWG3wNAAABe0lEQVQ4y21U67qDIAxDkKuAoub9X/UUimzsyB/3kV7SkE6IepIvxlzi/ViDdrZ3dCfkug8F/wYbyLN+I9T6H03Ayb/0k+79MuAyei7I7euIhzz6ZcYTahW4ejQB0K7dAfYppHE/kUdAdq2SHH02tNmtv5xIGbrB+9cMF4+AcIk14JhhjcjZGQRdCJZ6j+Kdml2c8FCJSFM0VEdXw4UOqEg0DMUUIRRSnx884rlT6klFl6pIb7hC6XtM4B0VTZV7oTI1p0vG5YtDIHivUjZuNgz1iEUS8eRsum9P4psM07lSE6NVd2FIOp0TynHHbN/w/s5WvtvlRnD83opY3P5YZnzvaWSrVVdTysm1S1W4mxLBbNUM37bb+lDrjnyyGWT6wDRUZ+XEEyfdB4/AzMflaSsKQpr9/bwkW0ET65/t+FbB7ROb2m/aOcLDd3/PT/HBSRE/VE/hh6yw5KccO5pf9vmWJGiJSyyKl+R31w/JfwV9xf4H3GXbTOl9/wANVhUbtrro8AAAAABJRU5ErkJggg==);
+}
+.company-bottom-contract .company-to-contract.data-v-b797eeec{
+        width:298px;
+        height:36.5px;
+        background:rgba(76,150,255,1);
+        border-radius:18.5px;
+        text-align: center;
+        line-height: 36.5px;
+		-webkit-box-flex: 1;
+		-webkit-flex: 1;
+		        flex: 1;
+
+        font-size:14px;
+        font-weight:400;
+        color:rgba(255,255,255,1);
+        margin-left: 20px;
+}
+.two-btn.data-v-b797eeec{
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		/* flex-direction: column; */
+		line-height: 36.5px;
+		margin-left: 12px;
+		font-weight: 400;
+		
+		width: 298px;
+		height: 36.5px;
+		-webkit-box-flex: 1;
+		-webkit-flex: 1;
+		        flex: 1;
+}
+.two-btn button.data-v-b797eeec{
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+}
+.two-btn .contract.data-v-b797eeec{
+		width: 50%;
+		height: 36.5px;
+		background: rgba(0,183,113,1);
+		border-radius: 18.5px 0px 0px 18.5px;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		        align-items: center;
+		-webkit-box-pack: center;
+		-webkit-justify-content: center;
+		        justify-content: center;
+}
+.two-btn .contract image.data-v-b797eeec{
+		margin-right: 5px;
+		width: 15.5px;
+		height: 13.5px;
+}
+.two-btn .shop image.data-v-b797eeec{
+		margin-right: 5px;
+		width: 11px;
+		height: 14px;
+}
+.two-btn .shop.data-v-b797eeec{
+		width: 50%;
+		height: 36.5px;
+		background: rgba(76,150,255,1);
+		border-radius: 0px 18.5px 18.5px 0px;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		        align-items: center;
+		-webkit-box-pack: center;
+		-webkit-justify-content: center;
+		        justify-content: center;
+}
+button.data-v-b797eeec::after{
+		border: none;
+}
+
+

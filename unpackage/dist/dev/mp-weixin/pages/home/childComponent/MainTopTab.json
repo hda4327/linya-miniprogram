@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "top-tab": "/components/content/topTab/TopTab",
+    "top-tab-item": "/components/content/topTab/TopTabItem"
+  }
+}

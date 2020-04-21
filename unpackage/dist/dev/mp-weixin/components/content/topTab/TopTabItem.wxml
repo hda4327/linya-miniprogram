@@ -1,0 +1,1 @@
+<navigator class="tab-item data-v-e01ad676" url="{{isCurrentPath?'':path}}" open-type="redirect" animation-type="none"><view class="tab-name _div data-v-e01ad676" style="{{'border-bottom:'+(activeTab?activeColor+' 2px solid':'')+';'+('color:'+(activeTab?activeColor:'')+';')}}"><slot></slot></view></navigator>

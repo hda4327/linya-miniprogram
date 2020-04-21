@@ -1,0 +1,1 @@
+<view class="main _div data-v-954b5a96"><view class="title _div data-v-954b5a96">{{''+caseData.title+''}}</view><company-info vue-id="3e4cdfa6-1" isShowVip="{{true}}" class="data-v-954b5a96" bind:__l="__l"></company-info><jyf-parser class="content data-v-954b5a96 vue-ref" vue-id="3e4cdfa6-2" html="{{caseData.content}}" data-ref="article" bind:__l="__l"></jyf-parser></view>

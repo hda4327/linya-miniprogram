@@ -1,0 +1,1 @@
+<view class="video-conent-main data-v-30876c78"><view class="info data-v-30876c78"><text class="title text-line-ov-hide data-v-30876c78">{{videoInfo.desc}}</text><text class="view-num data-v-30876c78">{{"浏览量："+videoInfo.play_num}}</text></view></view>

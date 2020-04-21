@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "coupe-list": "/pages/coupe/ComChild/CoupeList",
+    "search": "/components/content/Search/Search"
+  }
+}

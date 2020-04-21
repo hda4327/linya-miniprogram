@@ -1,0 +1,1 @@
+<view data-ref="wrapper" class="scroll _div data-v-33c0677c vue-ref"><view data-ref="content" class="content _div data-v-33c0677c vue-ref" style="{{'display:'+(contentWidth?'flex':'')+';'+('justify-content:'+(contentWidth?'space-between':'')+';')}}"><slot></slot></view></view>

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "detail-content": "/pages/coupeDetail/ComChild/DetailContent",
+    "company-bottom": "/components/content/companyInfo/CompanyBottom"
+  }
+}

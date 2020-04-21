@@ -1,0 +1,17 @@
+
+.top-tab.data-v-2149c412{
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: flex;
+        background: white;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+                align-items: center;
+        height: 45px;
+        font-size: 14px;
+        
+		-webkit-justify-content: space-around;
+        
+		        justify-content: space-around;
+}
+

@@ -1,0 +1,55 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/home/Home"
+		},
+		{
+			"path": "pages/about/About"
+		},
+		{
+			"path": "pages/case/Case"
+		},
+		{
+			"path": "pages/caseDetail/CaseDetail"
+		},
+		{
+			"path": "pages/project/Project"
+		},
+		{
+			"path": "pages/projectDetail/ProjectDetail"
+		},
+		{
+			"path": "pages/team/Team"
+		},
+		{
+			"path": "pages/teamDetail/TeamDetail"
+		},
+		{
+			"path": "pages/coupe/Coupe"
+			
+		},
+		{
+			"path": "pages/coupeDetail/CoupeDetail"
+			
+		},
+		{
+			"path": "pages/video/Video"
+			
+		},
+		{
+			"path": "pages/videoDetail/VideoDetail"
+			
+		},
+		{
+			"path": "pages/home/VideoH5"
+			
+		}
+		
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

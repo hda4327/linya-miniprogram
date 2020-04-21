@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "pages/home/Home",
+    "pages/about/About",
+    "pages/case/Case",
+    "pages/caseDetail/CaseDetail",
+    "pages/project/Project",
+    "pages/projectDetail/ProjectDetail",
+    "pages/team/Team",
+    "pages/teamDetail/TeamDetail",
+    "pages/coupe/Coupe",
+    "pages/coupeDetail/CoupeDetail",
+    "pages/video/Video",
+    "pages/videoDetail/VideoDetail",
+    "pages/home/VideoH5"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "navigateToMiniProgramAppIdList": [
+    "wx9188524557398958"
+  ],
+  "usingComponents": {
+    "global": "/components/global",
+    "support-tip": "/components/content/supportTip/SupportTip",
+    "contact-bottom": "/components/content/companyInfo/ContactBottom",
+    "auth-main": "/components/content/auth/Auth"
+  },
+  "sitemapLocation": "sitemap58.json"
+}

@@ -1,0 +1,1 @@
+<view class="main data-v-0fa16d34"><block wx:for="{{videoList}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="item data-v-0fa16d34"></view></block></view>

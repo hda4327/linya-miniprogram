@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "main-top-tab": "/pages/home/childComponent/MainTopTab"
+  }
+}

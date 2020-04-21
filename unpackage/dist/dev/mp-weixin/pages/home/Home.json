@@ -1,0 +1,12 @@
+{
+  "usingComponents": {
+    "banner-swiper": "/pages/home/childComponent/BannerSwiper",
+    "company-info": "/components/content/companyInfo/companyInfo",
+    "statistics-show": "/pages/home/childComponent/statisticsShow",
+    "case-show": "/pages/home/childComponent/CaseShow",
+    "project-show": "/pages/home/childComponent/ProjectShow",
+    "coupe-show": "/pages/home/childComponent/CoupeShow",
+    "doctor-show": "/pages/home/childComponent/DoctorShow",
+    "video-show": "/pages/home/childComponent/VideoShow"
+  }
+}

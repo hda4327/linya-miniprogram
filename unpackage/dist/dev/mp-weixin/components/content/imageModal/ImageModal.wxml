@@ -1,0 +1,1 @@
+<block wx:if="{{isShow}}"><view data-event-opts="{{[['tap',[['clickModal',['$event']]]]]}}" class="modal-cover _div data-v-b0faeb5c" bindtap="__e"><image src="{{baseUrl+imgUrl}}" alt class="_img data-v-b0faeb5c"></image></view></block>

@@ -1,0 +1,1 @@
+<view class="top-log _div data-v-a259cf5e"><image class="com-log _img data-v-a259cf5e" src="{{baseUrl+about.seller_company.img_resource.src}}" alt></image><view class="name _div data-v-a259cf5e">{{''+about.seller_company.name+''}}</view></view>

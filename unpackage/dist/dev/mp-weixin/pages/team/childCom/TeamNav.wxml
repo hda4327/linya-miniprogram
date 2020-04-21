@@ -1,0 +1,1 @@
+<view class="team-nav _div data-v-4be95ca1"><block wx:for="{{navList}}" wx:for-item="item" wx:for-index="index"><label data-event-opts="{{[['tap',[['changeType',[index]]]]]}}" class="{{['nav-item _span data-v-4be95ca1',(index===selectType)?'active':'']}}" bindtap="__e">{{''+item+''}}</label></block></view>

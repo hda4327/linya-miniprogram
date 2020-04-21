@@ -1,0 +1,1 @@
+<view class="wx-content _div data-v-3ce8c7f4"><view class="left-content _div data-v-3ce8c7f4"><view class="name _div data-v-3ce8c7f4">{{'加'+name+'为好友'}}</view><view class="tip _div data-v-3ce8c7f4">长按二维码识别添加</view></view><view class="right-content _div data-v-3ce8c7f4"><image class="code _img data-v-3ce8c7f4" src="{{wxImg}}" alt></image></view></view>

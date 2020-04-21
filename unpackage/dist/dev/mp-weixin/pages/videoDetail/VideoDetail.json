@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "video-content": "/pages/videoDetail/childCom/videoContent",
+    "company-info": "/pages/videoDetail/childCom/CompanyInfo",
+    "tip-content": "/pages/videoDetail/childCom/TipContent",
+    "company-bottom": "/components/content/companyInfo/CompanyBottom"
+  }
+}

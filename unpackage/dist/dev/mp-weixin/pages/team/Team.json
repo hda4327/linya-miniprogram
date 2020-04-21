@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "statistics-tab": "/pages/team/childCom/statisticsTab",
+    "team-nav": "/pages/team/childCom/TeamNav",
+    "team-list": "/pages/team/childCom/TeamList"
+  }
+}

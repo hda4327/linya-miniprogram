@@ -1,0 +1,1 @@
+<view class="main data-v-0a1f92da"><view class="fixed-content _div data-v-0a1f92da"><view class="top-name _div data-v-0a1f92da">{{comName}}</view><main-top-tab vue-id="5cb469a8-1" class="data-v-0a1f92da" bind:__l="__l"></main-top-tab></view><view style="height:86px;" class="_div data-v-0a1f92da"></view></view>

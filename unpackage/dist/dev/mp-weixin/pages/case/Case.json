@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "case-nav": "/pages/case/ComChild/CaseNav",
+    "case-list": "/pages/case/ComChild/CaseList",
+    "search": "/components/content/Search/Search",
+    "scroll": "/components/common/scroll/Scroll"
+  }
+}

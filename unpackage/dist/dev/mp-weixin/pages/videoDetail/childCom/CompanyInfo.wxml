@@ -1,0 +1,1 @@
+<view class="info-main data-v-62e1f3be"><view class="img-content data-v-62e1f3be"><image src="{{baseUrl+companyInfo.seller_company.img_resource.src}}" class="data-v-62e1f3be"></image></view><view class="title data-v-62e1f3be">{{companyInfo.seller_company.name}}</view></view>

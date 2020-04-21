@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "video-search": "/pages/video/childCom/VideoSearch",
+    "video-list": "/pages/video/childCom/VideoList",
+    "support-tip": "/components/content/supportTip/SupportTip"
+  }
+}

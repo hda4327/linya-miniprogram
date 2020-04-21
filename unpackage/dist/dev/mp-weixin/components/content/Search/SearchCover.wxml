@@ -1,0 +1,1 @@
+<view class="main _div data-v-2a253695"><block wx:if="{{isShowCover}}"><view data-event-opts="{{[['tap',[['e0',['$event']]]]]}}" class="search-cover _div data-v-2a253695" bindtap="__e"></view></block></view>

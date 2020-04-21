@@ -1,0 +1,196 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+/*:root -> 获取根元素html*/
+.data-v-2fdeb340:root {
+  --color-text: #666;
+  --color-high-text: #ff5777;
+  --color-tint: #ff8198;
+  --color-background: #fff;
+  --font-size: 14px;
+  --line-height: 1.5;
+}
+page.data-v-2fdeb340 {
+  font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+  -webkit-user-select: none;
+          user-select: none;
+  /* 禁止用户鼠标在页面上选中文字/图片等 */
+  -webkit-tap-highlight-color: transparent;
+  /* webkit是苹果浏览器引擎，tap点击，highlight背景高亮，color颜色，颜色用数值调节 */
+  background: var(--color-background);
+  color: var(--color-text);
+  /* rem vw/vh */
+  width: 100vw;
+  background: #FAF8F8;
+}
+._a.data-v-2fdeb340 {
+  color: var(--color-text);
+  text-decoration: none;
+}
+/*给标签class加clear-fix 去除浮动*/
+.clear-fix.data-v-2fdeb340::after {
+  clear: both;
+  content: '';
+  display: block;
+  width: 0;
+  height: 0;
+  visibility: hidden;
+}
+.clear-fix.data-v-2fdeb340 {
+  zoom: 1;
+}
+.left.data-v-2fdeb340 {
+  float: left;
+}
+.right.data-v-2fdeb340 {
+  float: right;
+}
+.cover.data-v-2fdeb340 {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  background-color: rgba(1, 1, 1, 0.7);
+}
+.text-line-ov-hide.data-v-2fdeb340 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.main.data-v-2fdeb340 {
+  background: #FAF8F8;
+}
+.list.data-v-2fdeb340 {
+  margin-top: 15px;
+  padding: 5px 7.5px 0 7.5px;
+  display: inline-block;
+  width: 100%;
+  position: relative;
+}
+.list .item.data-v-2fdeb340 {
+    padding: 0 7.5px 0 7.5px;
+    height: 163px;
+    width: 48%;
+    float: left;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+.list .item .item-inner.data-v-2fdeb340 {
+      width: 100%;
+      height: 100%;
+      background: white;
+      box-shadow: 0px 0px 15px 0px rgba(102, 102, 102, 0.1);
+      border-radius: 10px;
+      overflow: hidden;
+}
+.list .item .item-inner .img.data-v-2fdeb340 {
+        width: 100%;
+        height: 95px;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-color: #c6c6c6;
+}
+.list .item .item-inner .img .tag.data-v-2fdeb340 {
+          background: -webkit-linear-gradient(150deg, #8abef7 0%, #658df5 100%);
+          background: linear-gradient(-60deg, #8abef7 0%, #658df5 100%);
+          border-radius: 6.5px;
+          font-size: 12px;
+          font-weight: 400;
+          color: white;
+          display: inline-block;
+          padding: 2.5px 6px;
+          float: right;
+          margin-right: 5px;
+          margin-top: 5px;
+}
+.list .item .item-inner .title.data-v-2fdeb340 {
+        font-size: 14px;
+        font-weight: 400;
+        color: #323232;
+        padding: 7.5px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+}
+.list .item .item-inner .user-info.data-v-2fdeb340 {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+                align-items: center;
+        -webkit-box-pack: justify;
+        -webkit-justify-content: space-between;
+                justify-content: space-between;
+        padding: 0 7.5px;
+}
+.list .item .item-inner .user-info .ll.data-v-2fdeb340 {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: flex;
+          -webkit-box-align: center;
+          -webkit-align-items: center;
+                  align-items: center;
+}
+.list .item .item-inner .user-info .ll ._img.data-v-2fdeb340 {
+            width: 24px;
+            height: 24px;
+            border-radius: 100%;
+            margin-right: 5px;
+}
+.list .item .item-inner .user-info .ll ._span.data-v-2fdeb340 {
+            font-size: 14px;
+            font-weight: 300;
+            color: #878787;
+            width: 80px;
+            overflow: hidden;
+            display: block;
+            height: 24px;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            line-height: 24px;
+}
+.list .item .item-inner .user-info .rr.data-v-2fdeb340 {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: flex;
+          -webkit-box-align: center;
+          -webkit-align-items: center;
+                  align-items: center;
+}
+.list .item .item-inner .user-info .rr ._img.data-v-2fdeb340 {
+            width: 13px;
+            height: 9px;
+            margin-right: 5px;
+}
+.list .item .item-inner .user-info .rr ._span.data-v-2fdeb340 {
+            font-size: 12px;
+            font-weight: 400;
+            color: #878787;
+}
+

@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "doctor-content": "/pages/teamDetail/childCom/DoctorContent",
+    "satisfaction-content": "/pages/teamDetail/childCom/SatisfactionContent",
+    "doctor-wx": "/pages/teamDetail/childCom/DoctorWx",
+    "atlas-content": "/pages/teamDetail/childCom/AtlasContent",
+    "gift-content": "/pages/teamDetail/childCom/GiftContent",
+    "comment-content": "/pages/teamDetail/childCom/CommentContent"
+  }
+}
